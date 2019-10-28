@@ -1,0 +1,7 @@
+#should be ignored   
+
+Epam.NetMentoring.ServiceSettings.ConnectionString=1 #should also be ignored
+Epam.NetMentoring.ServiceSettings.Port=1
+ServiceSettings.BatchSize=1
+Epam.NetMentoring.IT.ServiceSettings.Port=1 #it is another class
+       

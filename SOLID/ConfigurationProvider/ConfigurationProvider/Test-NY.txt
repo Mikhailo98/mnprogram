@@ -1,0 +1,4 @@
+#Epam.NetMentoring.ServiceSettings.ConnectionString=sqlserver/dba
+#Epam.NetMentoring.ServiceSettings.Port=4563
+#ServiceSettings.BatchSize=300
+#Epam.NetMentoring.IT.ServiceSettings.Port=4563 #notice that namespace is different!  

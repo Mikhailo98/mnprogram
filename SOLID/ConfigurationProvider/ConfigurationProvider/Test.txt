@@ -1,0 +1,4 @@
+Epam.NetMentoring.ServiceSettings.ConnectionString=2
+#Epam.NetMentoring.ServiceSettings.Port=2
+ServiceSettings.BatchSize=3
+Epam.NetMentoring.IT.ServiceSettings.Port=2 #notice that namespace is different!
